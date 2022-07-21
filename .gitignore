@@ -4,3 +4,4 @@
 # Linux
 *.o
 *.cmd
+haxm-dkms
